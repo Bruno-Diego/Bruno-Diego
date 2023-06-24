@@ -1,8 +1,12 @@
-😎 Hi! I'm Bruno! 👋
+## 😎 Hi! I'm Bruno! 👋
 
-- 🔭 I’m currently working on a private company, but open for new opportunities!
-- 👔 I’m currently a Junior Full Stack Software Developer
-- 🌱 I’m currently training to master Professional Javascript.
+- 🔭 I’m a enthusiastic Full Stack Software Developer open and seeking for new opportunities!
+- 👔 I’m currently free-lancing and working on Open Source projects.
+- 🌱 I’m currently training to master Professional Javascript and Web Development.
+
+- 🔥 Check out my incredible [BRUNODIEGODEV website](https://bruno-diego.github.io/brunodiegodev/) with my portfolio! 😲
+
+##
 
 <div align="center">
   <a href="https://github.com/Bruno-Diego">
